@@ -6,3 +6,9 @@ Se você é um dos trainees: Oi de novo! Use esse repositório à vontade para c
 
 > **Nota**:
 > Talvez esse repositório esteja uma pequena bagunça. Lembre que o importante nele é o que está na pasta `/prisma` e as operações com Prisma.
+
+____
+
+# Importante!
+
+Neste repositório, eu usei *TailwindCSS*. Vocês trainees **não estão utilizando isso**. Ao invés dele, vocês estão trabalhando com CSS diretamente. Então, nas páginas desse repositório, ignorem o que está escrito em `className` nas tags dos componentes React.
